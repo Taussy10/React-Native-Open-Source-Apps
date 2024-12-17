@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/Taussy10/React-Native-Open-Source-Apps" target="_blank" rel="noopener noreferrer">
-      <img src="react-native-banner.jpg" height= "500"  alt="Website Home Page">
+      <img src="react-native-banner.jpg" height= "270"  alt="Website Home Page">
     </a>
   <br />
 
