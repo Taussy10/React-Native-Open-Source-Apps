@@ -28,10 +28,12 @@
     <img src="https://img.shields.io/github/issues/taussy10/React-Native-Open-Source-Apps" alt="open issues" />
   </a>
 
- <h1 align="center">React Native Open Source Published Apps </h1>
+ <!-- <h1 align="center">React Native Open Source Published Apps </h1> -->
+ <h2 align="center">React Native Open Source Published Apps </h2>
 
    <div align="center">
-    <h3>  Build this project so that everyone can know that how to build production ready Apps using React Native  </h3> 
+    <h4>  Build this project so that everyone can know that how to build production ready Apps  </h4> 
+<!--     <h3>  Build this project so that everyone can know that how to build production ready Apps  </h3>  -->
     </div>
 </div>
 
