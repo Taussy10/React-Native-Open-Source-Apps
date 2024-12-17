@@ -37,6 +37,8 @@
     </div>
 </div>
 
+## Apps are here  👇👇
+<details><summary> Click Here To View List</summary>
 
 |Number| Name     |Description | Category | RN CLI or Expo  | Github Link  | Github Stars | Last commit  | Playstore Link & Number of Downloads| Appstore Link & Number of Downloads |
 :-----------:|:-----------: | :-----------: | :-----------: | :-----------: |  :-----------: | :-----------: | :-----------: | :-----------: |  :-----------: |
@@ -52,7 +54,11 @@
 |10.| Trackie |Find the most popular genres, manga, authors, and characters! | Entertainment | React Native |[GitHub](https://github.com/etasdemir/Trackie) | ![GitHub Repo stars](https://img.shields.io/github/stars/etasdemir/Trackie)| <img src="https://img.shields.io/github/last-commit/etasdemir/Trackie/main" alt="last update" /> | [+100](https://play.google.com/store/apps/details?id=com.trackie) |N/A |
 |11.| Xarp Spaces |Peer-to-peer chat and file sharing tool! | Tool | React Native |[GitHub](https://github.com/benjamineruvieru/xarp) | ![GitHub Repo stars](https://img.shields.io/github/stars/benjamineruvieru/xarp)| <img src="https://img.shields.io/github/last-commit/benjamineruvieru/xarp/master" alt="last update" /> | [+10](https://play.google.com/store/apps/details?id=com.xarpspaces.android) |[Appstore](https://apps.apple.com/ng/app/xarp-spaces/id6444863755) |
 |12.| Kicks Citi |Get Affordable footwear! | Ecommerce | React Native |[GitHub](https://github.com/benjamineruvieru/kicksciti) | ![GitHub Repo stars](https://img.shields.io/github/stars/benjamineruvieru/kicksciti)| <img src="https://img.shields.io/github/last-commit/benjamineruvieru/kicksciti/master" alt="last update" /> | [+50](https://play.google.com/store/apps/details?id=com.kicksciti.android) |[Appstore](https://apps.apple.com/us/app/kicks-citi/id6474217371?platform=iphone) |
+</details>
 
+# <p align="center">Contributors
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=taussy10/React-Native-Open-Source-Apps) 
 
 
 
