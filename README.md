@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://github.com/Taussy10/React-Native-Open-Source-Apps" target="_blank" rel="noopener noreferrer">
-      <img src="https://fastly.picsum.photos/id/381/200/300.jpg?hmac=DHcGsLBoQPJC-_rudxS4AdZuSE9UoOFP2U2v2veUAok" alt="Website Home Page">
+      <img src="react-native-banner.jpg" height= "500"  alt="Website Home Page">
     </a>
   <br />
 
@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/github/issues/taussy10/React-Native-Open-Source-Apps" alt="open issues" />
   </a>
 
- <h3 align="center">React Native Open Source Published Apps </h3>
+ <h1 align="center">React Native Open Source Published Apps </h1>
 
    <div align="center">
-     Build this project so that everyone can know that how to build production ready Apps using React Native
+    <h3>  Build this project so that everyone can know that how to build production ready Apps using React Native  </h3> 
     </div>
 </div>
 
