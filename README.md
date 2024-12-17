@@ -1,4 +1,40 @@
-# React-Native-Open-Source-Apps
+<div align="center">
+  <br />
+    <a href="https://github.com/Taussy10/React-Native-Open-Source-Apps" target="_blank" rel="noopener noreferrer">
+      <img src="https://fastly.picsum.photos/id/381/200/300.jpg?hmac=DHcGsLBoQPJC-_rudxS4AdZuSE9UoOFP2U2v2veUAok" alt="Website Home Page">
+    </a>
+  <br />
+
+  <div>
+    <img src="https://img.shields.io/badge/markdown-%23000000?logo=markdown&logoSize=auto" alt="react.js" />
+    <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black" alt="react-native" />
+    <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white" alt="appwrite" />
+  </div>
+
+<p marginTop = 20 >
+  <a href="https://github.com/taussy10/React-Native-Open-Source-Apps">
+    <img src="https://img.shields.io/github/contributors/taussy10/React-Native-Open-Source-Apps" alt="contributors" />
+  </a>
+  <a href="https://github.com/taussy10/Student-Perks">
+    <img src="https://img.shields.io/github/last-commit/taussy10/React-Native-Open-Source-Apps" alt="last update" />
+  </a>
+  <a href="https://github.com/taussy10/React-Native-Open-Source-Apps">
+    <img src="https://img.shields.io/github/forks/taussy10/React-Native-Open-Source-Apps" alt="forks" />
+  </a>
+  <a href="https://github.com/taussy10/React-Native-Open-Source-Apps">
+    <img src="https://img.shields.io/github/stars/taussy10/React-Native-Open-Source-Apps" alt="stars" />
+  </a>
+  <a href="https://github.com/taussy10/React-Native-Open-Source-Apps">
+    <img src="https://img.shields.io/github/issues/taussy10/React-Native-Open-Source-Apps" alt="open issues" />
+  </a>
+
+ <h3 align="center">React Native Open Source Published Apps </h3>
+
+   <div align="center">
+     Build this project so that everyone can know that how to build production ready Apps using React Native
+    </div>
+</div>
+
 
 |Number| Name     |Description | Category | RN CLI or Expo  | Github Link  | Github Stars | Last commit  | Playstore Link & Number of Downloads| Appstore Link & Number of Downloads |
 :-----------:|:-----------: | :-----------: | :-----------: | :-----------: |  :-----------: | :-----------: | :-----------: | :-----------: |  :-----------: |
@@ -14,6 +50,8 @@
 |10.| Trackie |Find the most popular genres, manga, authors, and characters! | Entertainment | React Native |[GitHub](https://github.com/etasdemir/Trackie) | ![GitHub Repo stars](https://img.shields.io/github/stars/etasdemir/Trackie)| <img src="https://img.shields.io/github/last-commit/etasdemir/Trackie/main" alt="last update" /> | [+100](https://play.google.com/store/apps/details?id=com.trackie) |N/A |
 |11.| Xarp Spaces |Peer-to-peer chat and file sharing tool! | Tool | React Native |[GitHub](https://github.com/benjamineruvieru/xarp) | ![GitHub Repo stars](https://img.shields.io/github/stars/benjamineruvieru/xarp)| <img src="https://img.shields.io/github/last-commit/benjamineruvieru/xarp/master" alt="last update" /> | [+10](https://play.google.com/store/apps/details?id=com.xarpspaces.android) |[Appstore](https://apps.apple.com/ng/app/xarp-spaces/id6444863755) |
 |12.| Kicks Citi |Get Affordable footwear! | Ecommerce | React Native |[GitHub](https://github.com/benjamineruvieru/kicksciti) | ![GitHub Repo stars](https://img.shields.io/github/stars/benjamineruvieru/kicksciti)| <img src="https://img.shields.io/github/last-commit/benjamineruvieru/kicksciti/master" alt="last update" /> | [+50](https://play.google.com/store/apps/details?id=com.kicksciti.android) |[Appstore](https://apps.apple.com/us/app/kicks-citi/id6474217371?platform=iphone) |
+
+
 
 
 
