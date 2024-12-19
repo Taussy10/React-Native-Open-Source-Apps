@@ -32,7 +32,7 @@
  <h2 align="center">React Native Open Source Published Apps </h2>
 
    <div align="center">
-    <h4>  Build this project so that everyone can know that how to build production ready Apps  </h4> 
+    <h4>  Built this project so that everyone can know that how to build production ready Apps  </h4> 
 <!--     <h3>  Build this project so that everyone can know that how to build production ready Apps  </h3>  -->
     </div>
 </div>
